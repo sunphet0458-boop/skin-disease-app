@@ -24,6 +24,21 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f9dc1bac-adce-4ae3-aa46-05b0714fb1cc"
+      }
+    },
+    "owner": "sanpat0458",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f9dc1bac-adce-4ae3-aa46-05b0714fb1cc"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
   }
 }
