@@ -1,0 +1,19 @@
+# Python
+venv/
+venv311/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (ไม่ share ข้อมูลส่วนตัว)
+dermai.db
+*.db
+
+# โมเดล AI (ไฟล์ใหญ่เกิน GitHub รองรับ)
+model/
+*.h5
+*.weights.h5
+
+# Environment
+.env
+.env.local
